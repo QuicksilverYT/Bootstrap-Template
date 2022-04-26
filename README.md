@@ -8,7 +8,7 @@ This Is just a template for A Bootstrap file ,which doesn't require Bootstrap In
 
 `Step 1` Make a file named index.js and use [this code](https://raw.githubusercontent.com/QuicksilverYT/Bootstrap-Template/main/index.html) in it
 
-`Step 2 ` You have your file ready 
+`Step 2` You have your file ready 
 
 # Author 🧑‍💻
 
